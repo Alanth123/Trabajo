@@ -25,8 +25,23 @@ Tecnologías Utilizadas
 
 Instalación y Configuración
 
-1. Clona este repositorio en tu máquina local.
-2. Abre una terminal y navega hasta el directorio del proyecto.
-3. Ejecuta el comando `npm install` para instalar las dependencias necesarias.
-4. Configura las variables de entorno necesarias, como las claves de API y la configuración de la base de datos.
-5. Ejecuta el comando `npm start` para iniciar la aplicación.
+Intento de recuperación: Si el error es recuperable, el sistema podría implementar una serie de pasos para intentar resolver el problema automáticamente. Por ejemplo, si se produce un error de conexión a una base de datos, el sistema podría intentar reconectarse automáticamente varias veces antes de dar por terminado el proceso con un error irrecuperable.
+
+Notificación y registro: Es importante que el sistema registre y notifique el error para que los desarrolladores o el equipo técnico puedan investigar la causa del problema. El sistema podría registrar el error en un archivo de registro o en una base de datos centralizada para su análisis posterior. Además, el sistema podría enviar notificaciones por correo electrónico o mensajes a los administradores para que se enteren del error y puedan tomar medidas adecuadas.
+
+Escalado y alerta: Si el error es grave y requiere intervención humana, el sistema puede escalar el problema a los niveles superiores y activar una alerta. Por ejemplo, si ocurre un fallo crítico en un servidor, el sistema puede enviar una alerta a los ingenieros o administradores para que respondan rápidamente y resuelvan el problema.
+
+Respuesta alternativa: En algunos casos, el sistema podría proporcionar una respuesta alternativa en lugar de mostrar un mensaje de error genérico. Por ejemplo, si un servicio en línea no está disponible temporalmente, el sistema podría mostrar una página de "mantenimiento programado" o una versión en caché de la página para que los usuarios puedan acceder a información básica mientras se soluciona el problema.
+
+Terminación controlada: Si el error es crítico o representa un riesgo para la integridad de los datos o el sistema en general, el sistema podría tomar la decisión de finalizar el proceso o la aplicación de manera controlada y segura. Esto se hace para evitar daños mayores o para garantizar que los datos no se corrompan debido al error.
+
+Reintento: En situaciones en las que el error es temporal o está relacionado con problemas de red o servicios externos, el sistema podría implementar un mecanismo de reintento. Por ejemplo, si una solicitud a un servicio en la nube falla debido a una interrupción temporal, el sistema podría intentar nuevamente automáticamente después de un corto período.
+
+Informar al usuario: Si el error afecta directamente al usuario, el sistema debe proporcionar una respuesta clara y útil que explique el problema y ofrezca orientación sobre cómo proceder. Un mensaje de error comprensible y amigable para el usuario es importante para evitar la frustración y ayudar al usuario a tomar las medidas necesarias.
+
+[![imagen-2023-07-19-162936502.png](https://i.postimg.cc/T2C6B82F/imagen-2023-07-19-162936502.png)](https://postimg.cc/DmJHbMXP)
+
+[![bbc33074-56a7-45dc-a608-a2f8e17697ca.jpg](https://i.postimg.cc/9MBrvxzb/bbc33074-56a7-45dc-a608-a2f8e17697ca.jpg)](https://postimg.cc/PpPXDQWv)
+[![0a69e0a0-42b2-4f4c-8579-7fa31b0a9194.jpg](https://i.postimg.cc/MpjXWZvv/0a69e0a0-42b2-4f4c-8579-7fa31b0a9194.jpg)](https://postimg.cc/jDtRcb6b)
+[![63dfc497-ddab-42e9-8cf6-a37800e26e5d.jpg](https://i.postimg.cc/8zWk2y0v/63dfc497-ddab-42e9-8cf6-a37800e26e5d.jpg)](https://postimg.cc/tsqHPzyR)
+[![72550508-0c33-4580-b003-21df9f0af326.jpg](https://i.postimg.cc/Gmkr744J/72550508-0c33-4580-b003-21df9f0af326.jpg)](https://postimg.cc/xXTWqTyc)
