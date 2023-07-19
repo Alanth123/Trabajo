@@ -45,3 +45,4 @@ Informar al usuario: Si el error afecta directamente al usuario, el sistema debe
 [![0a69e0a0-42b2-4f4c-8579-7fa31b0a9194.jpg](https://i.postimg.cc/MpjXWZvv/0a69e0a0-42b2-4f4c-8579-7fa31b0a9194.jpg)](https://postimg.cc/jDtRcb6b)
 [![63dfc497-ddab-42e9-8cf6-a37800e26e5d.jpg](https://i.postimg.cc/8zWk2y0v/63dfc497-ddab-42e9-8cf6-a37800e26e5d.jpg)](https://postimg.cc/tsqHPzyR)
 [![72550508-0c33-4580-b003-21df9f0af326.jpg](https://i.postimg.cc/Gmkr744J/72550508-0c33-4580-b003-21df9f0af326.jpg)](https://postimg.cc/xXTWqTyc)
+[![9c82dbd0-e488-484a-a756-6c8e92ce3413.jpg](https://i.postimg.cc/KzKw0KqD/9c82dbd0-e488-484a-a756-6c8e92ce3413.jpg)](https://postimg.cc/9RhLMfjD)
